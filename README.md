@@ -30,7 +30,7 @@
 
 I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and I make beautiful <b>Android, iOS & Web </b>Apps.
-I spend a lot of my time in <b>Coding</b> <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> <b>Blogging</b> and <b>Giving Talks</b> on new <b>Tech</b> trends and topics
+I spend a lot of my time in <b>Coding</b>, <b>Learning</b>, <b>Innovating</b>, <b>Developing</b>, <b>Blogging</b> & <b>Giving Talks</b> on new <b>Tech</b> trends and topics
 
 
 - 🔭 I’m currently working on Flutter
