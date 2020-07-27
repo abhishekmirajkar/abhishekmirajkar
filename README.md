@@ -5,7 +5,7 @@
   <img align="left" alt="Abhishek Mirajkar's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/abhishek-mirajkar">
+<a href="https://www.linkedin.com/in/abhishek-mirajkar-41343178">
   <img align="left" alt="Abhishek Mirajkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
